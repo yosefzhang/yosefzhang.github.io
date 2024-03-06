@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Yosef Blog</title>
-        <link>http://localhost:1313/</link>
+        <link>https://yosefzhang.github.io/</link>
         <description>Recent content on Yosef Blog</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
-        <lastBuildDate>Wed, 06 Mar 2024 14:39:13 +0800</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+        <lastBuildDate>Wed, 06 Mar 2024 17:52:05 +0800</lastBuildDate><atom:link href="https://yosefzhang.github.io/index.xml" rel="self" type="application/rss+xml" />
     </channel>
 </rss>
