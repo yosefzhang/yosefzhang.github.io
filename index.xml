@@ -1,11 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel>
-        <title>Yosef Blog</title>
-        <link>https://yosefzhang.github.io/</link>
-        <description>Recent content on Yosef Blog</description>
-        <generator>Hugo -- gohugo.io</generator>
-        <language>zh-cn</language>
-        <lastBuildDate>Wed, 06 Mar 2024 17:52:05 +0800</lastBuildDate><atom:link href="https://yosefzhang.github.io/index.xml" rel="self" type="application/rss+xml" />
-    </channel>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>Yosef&#39;s Blog</title>
+    <link>https://yosefzhang.github.io/</link>
+    <description>Yosef&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Thu, 07 Mar 2024 19:00:27 &#43;0800</lastBuildDate>
+      <atom:link href="https://yosefzhang.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+  <title>1111</title>
+  <link>https://yosefzhang.github.io/posts/ef95438/</link>
+  <pubDate>Thu, 07 Mar 2024 19:00:27 &#43;0800</pubDate>
+  <author>作者</author>
+  <guid>https://yosefzhang.github.io/posts/ef95438/</guid>
+  <description><![CDATA[服务弄完全盘否定臭婆娘wcnlme
+whnwnqddncxlanl
+不吵不闹恻然体育健康尺码是]]></description>
+</item>
+</channel>
 </rss>
