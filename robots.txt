@@ -65,4 +65,4 @@ Disallow: /
 User-agent: ZoominfoBot
 Disallow: /
 
-Sitemap: https://yosefzhang.github.io/sitemap.xml
+Sitemap: https://blog.yosefzhang.top/sitemap.xml

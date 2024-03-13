@@ -13,5 +13,5 @@ whnwnqddncxlanl
 ---
 
 > 作者:   
-> URL: https://yosefzhang.github.io/posts/ef95438/  
+> URL: https://blog.yosefzhang.top/posts/ef95438/  
 
