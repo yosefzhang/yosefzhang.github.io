@@ -1,7 +1,7 @@
 # 个人笔记系统搭建
 
 
-# 个人笔记系统搭建
+
 
 ## 笔记系统的选择
 
@@ -225,6 +225,6 @@ Typora &#43; PicGo &#43; 阿里云OSS
 
 ---
 
-> 作者: 易相  
+> 作者: [易相先生](https://blog.yosefzhang.top/)  
 > URL: https://blog.yosefzhang.top/posts/%E4%B8%AA%E4%BA%BA%E7%AC%94%E8%AE%B0%E7%B3%BB%E7%BB%9F%E6%90%AD%E5%BB%BA/  
 
