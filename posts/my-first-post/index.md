@@ -8,5 +8,5 @@ npowm
 ---
 
 > 作者: [易相先生](https://blog.yosefzhang.top/)  
-> URL: https://blog.yosefzhang.top/posts/my-first-post/  
+> URL: http://localhost:1313/posts/my-first-post/  
 
