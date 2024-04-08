@@ -1,3 +1,3 @@
-# 易相先生的博客
+# 易相博客
 
 0 articles in total
