@@ -1,6 +1,6 @@
 {
-    "name": "\u6613\u76f8\u535a\u5ba2",
-    "short_name": "\u6613\u76f8\u535a\u5ba2",
+    "name": "\u6613\u76f8",
+    "short_name": "\u6613\u76f8",
     "icons": [
         {
             "src": "/android-chrome-192x192.png",
@@ -8,8 +8,8 @@
             "type": "image/png"
         },
         {
-            "src": "/android-chrome-384x384.png",
-            "sizes": "384x384",
+            "src": "/android-chrome-512x512.png",
+            "sizes": "512x512",
             "type": "image/png"
         }
     ],
